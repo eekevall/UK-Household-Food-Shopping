@@ -1,6 +1,6 @@
 # Obesity and UK Household Food Shopping
 
-A machine learning analysis using Python and Tableau to analyse income and spending on food data.
+Advanced analytical analysis and dashboard design - a machine learning analysis using Python and Tableau to analyse income and spending on food data.
 
 ## Project Overview
 **Motivation** : Poor diet within the UK is a public health issue and the UK is ranked as one of the worst in Europe for levels of obesity, particularly among children. A [study in the journal Public Health Nutrition](https://www.cambridge.org/core/journals/public-health-nutrition/article/household-availability-of-ultraprocessed-foods-and-obesity-in-nineteen-european-countries/D63EF7095E8EFE72BD825AFC2F331149) showed that families buy more 'ultra-processed' food than other European countries; with these products accounting for more than half of all UK family food purchases. ‘Ultra-processed’ food - food made in a factory with industrial ingredients and additives you wouldn’t find in your kitchen - bears little resemblance to the fruit, vegetables, meat or fish used to cook a fresh meal at home. Could these products be driving the rise in obesity? 
