@@ -71,3 +71,10 @@ Analysing Time Series Data Analysis:
 
 ### Presenting the findings as a dashboard for the general public
 * Link to the [Interactive Story Dashboard in Tableau](https://public.tableau.com/app/profile/elsa2253/viz/ObesityandHouseholdShoppingHabits/UKHouseholdFoodShopping?publish=yes)
+![Overview.png](https://github.com/eekevall/UK-Household-Food-Shopping/blob/main/Tableau%20Pages/Overview.png)
+![Obesity in UK.png](https://github.com/eekevall/UK-Household-Food-Shopping/blob/main/Tableau%20Pages/Obesity%20in%20UK.png)
+![Household Food Choices.png](https://github.com/eekevall/UK-Household-Food-Shopping/blob/main/Tableau%20Pages/Household%20Food%20Choices.png)
+![Household Food Budget.png](https://github.com/eekevall/UK-Household-Food-Shopping/blob/main/Tableau%20Pages/Household%20Food%20Budget.png)
+![Disposable Income Food Choice.png](https://github.com/eekevall/UK-Household-Food-Shopping/blob/main/Tableau%20Pages/Disposable%20Income%20Food%20Choice.png)
+![Grouping Households.png](https://github.com/eekevall/UK-Household-Food-Shopping/blob/main/Tableau%20Pages/Grouping%20Households.png)
+![What Goes in Your Shopping Basket.png](https://github.com/eekevall/UK-Household-Food-Shopping/blob/main/Tableau%20Pages/What%20Goes%20in%20Your%20Shopping%20Basket.png)
