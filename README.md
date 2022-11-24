@@ -1,4 +1,4 @@
-# Obesity and UK Household Food Shopping
+# UK Household Food Shopping
 
 Advanced analytical analysis and dashboard design - a machine learning analysis using Python and Tableau to analyse income and spending on food data.
 
