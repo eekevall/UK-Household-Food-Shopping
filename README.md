@@ -13,7 +13,7 @@ Advanced analytical analysis and dashboard design - a machine learning analysis 
 The following data sets were used during the project:
 1. The Living Costs and Food Survey derived Urban and Rural Household Characteristics Data for the years 2015 to 2020 downloaded from the [UK Data Service website](https://beta.ukdataservice.ac.uk/datacatalogue/studies/?Search=living+costs+food+survey#!?Search=living%20costs%20food%20survey&Page=1&Rows=10&Sort=1&DateFrom=440&DateTo=2022).
 
-These files contain information on household composition, household characteristics, aggregate household spending and items that are contained in a household. 
+These files contain information on household composition, household characteristics, aggregate household spending and items that are contained in a household. *These files are not publicly available and therefore not included in the repository.*
 
 2. [UK_BMI.xlsx](https://github.com/eekevall/UK-Household-Food-Shopping/blob/main/02_Data/02_1_Original_Data/UK_BMI.xlsx)
 
